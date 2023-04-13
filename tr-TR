@@ -1,0 +1,20 @@
+{
+    "ENMITY_GENERAL": "Genel",
+    "ENMITY_PLUGINS": "Eklentiler",
+    "ENMITY_THEMES": "Temalar",
+    "ENMITY_UPDATER": "Güncelleyici",
+    "ENMITY_DEBUG_LOGS": "Hata Ayıklama Kaydı",
+    "ENMITY_SEARCH_PLUGINS": "Eklenti ara...",
+    "ENMITY_SEARCH_THEMES": "Tema ara...",
+    "ENMITY_SEARCH_ASSETS": "Varlık ara...",
+    "ENMITY_DEVELOPMENT_SETTINGS": "Geliştirme Ayarları",
+    "ENMITY_DEBUG_BRIDGE_IP": "Hata Ayıklama IP'si",
+    "ENMITY_DEBUG_BRIDGE_CONNECT": "Başlangıçta hata ayıklama köprüsüne bağlan",
+    "ENMITY_DEBUG_BRIDGE": "Hata Ayıklama Köprüsü",
+    "ENMITY_TOAST_SETTINGS": "Toast Ayarları",
+    "ENMITY_ASSET_BROWSER": "Varlık Tarayıcısı",
+    "ENMITY_ADDON_NO_DESCRIPTION": "Herhangi bir açıklama belirtilmemiş.",
+    "ENMITY_INSTALL": "Kur",
+    "ENMITY_INSTALL_TITLE": "{type}'ı Kur",
+    "ENMITY_ADDON_FAILED": "Eklenti yükleme başarısız oldu: {error}"
+  }
